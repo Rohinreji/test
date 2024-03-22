@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    height: 70px;
+}
+body{
+    margin: 0%;
+}
+.line div{
+    height: 4px;
+    background-color: black;
+    margin: 4px 0;
+    border-radius: 25px;
+}
+.line{
+    width: 25px;
+    display: block;
+    margin: 1em 0 0 1em;
+    float: left;
+}
+.external-icon{
+    pointer-events: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,28 @@
+button{
+    background: grey;
+    color: aliceblue;
+}
+#para1{
+    color: pink;
+}
+#para2{
+    color: black;
+}
+.content{
+    color:lavender ;
+    background: red;
+}
+div{
+    width: 300px;
+    height: 200px;
+    background: grey;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-top: 40px;
+    border: 3px solid;
+    border-color: black;
+}
+.content1{
+    color: aliceblue;
+}
